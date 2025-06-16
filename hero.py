@@ -58,9 +58,9 @@ class SuperHero3(SuperHero2):
         return f'fly in the True_phrase'
 
 sh3=SuperHero3('gad', 'gra', 'war', 40, 'gagagugu', 43)
-sh3.hp()
 print(sh3.hp())
 
+sh3.hp()
 class Villain(SuperHero3):
     people = 'monster'
     def __init__(self, name, nickname, superpower, health_points, catchphrase, damage, fly):
