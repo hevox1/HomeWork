@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fb797f0-c50b-42d8-b562-da839ab6fe69" name="Changes" comment="" />
+    <list default="true" id="4fb797f0-c50b-42d8-b562-da839ab6fe69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_calculator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,8 @@
     &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
     &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
     &quot;Python.hero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw3_calculator.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
