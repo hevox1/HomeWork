@@ -1,0 +1,11 @@
+git branch
+git checout -b название
+git merge название
+git branch -d название
+
+
+
+git init
+git add .
+git connit -m'fsdfag'
+git push origin master

@@ -1,0 +1,5 @@
+.gitignore
+.venv
+.idea
+__pycashe__/
+main.py
